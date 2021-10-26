@@ -13,6 +13,15 @@ The following display above shows the Pyber city type summary. The Pyber city su
 
 When each city types results are displayed side by side, we see that the popularity for a Pyber ride heavily relies within the Urban cities, followed by Suburban, then Rural. As Urban has the highest number of rides between the three they also lead with the highest total drivers. As Pyber is frequently used within the Urban cities, the Urban cities have the highest fare total. Due to the high frequency of rides and high number of drivers. Urban cities have a lower average fare per ride and average fare per driver compared to the highest leading average which is the Rural area followed by Suburban.
 
+# Visual Results
+
+![Screenshot (137)](https://user-images.githubusercontent.com/81484054/138927244-c3ed683f-21c0-4954-bfe8-21e94c7a9033.png)
+
+![Screenshot (138)](https://user-images.githubusercontent.com/81484054/138927265-070f73ad-5ed3-414f-bca6-84f17f9c4ac9.png)
+
+![Screenshot (136)](https://user-images.githubusercontent.com/81484054/138927277-54737f5b-f5aa-44d0-8c1c-4423a37841aa.png)
+
+![Screenshot (135)](https://user-images.githubusercontent.com/81484054/138927292-1ad1ec2b-02a3-4179-899c-ed0970b18e1e.png)
 
 ### Analysis Recommendation’s to Pyber
 
